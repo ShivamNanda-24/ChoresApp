@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>606265334813-i8jb69jtt07daslt0e1d2mjsi0qqo72i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.606265334813-i8jb69jtt07daslt0e1d2mjsi0qqo72i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrFCYgx971p-tRfz_v76cm7n2gHgdWLXo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>606265334813</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>shivam.ChoresApp</string>
+	<key>PROJECT_ID</key>
+	<string>dutydo-554a4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dutydo-554a4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:606265334813:ios:d839f3933c117567db7af4</string>
+</dict>
+</plist>
